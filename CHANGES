@@ -20,3 +20,5 @@ v1.0.0
 Automatic bump up with Bioconductor 2.14
 v1.0.1
 Add "DifferentialMethylation" label in BiocViews
+v1.0.2
+More descriptive title

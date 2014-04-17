@@ -1,7 +1,7 @@
 Package: COHCAP
 Type: Package
-Title: City of Hope CpG Island Analysis Pipeline
-Version: 1.0.1
+Title: CpG Island Analysis Pipeline for Illumina Methylation Array and Targeted BS-Seq Data
+Version: 1.0.2
 Date: 2014-4-15
 Author: Charles Warden
 Maintainer: Charles Warden <cwarden45@gmail.com>
